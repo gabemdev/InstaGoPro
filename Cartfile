@@ -1,0 +1,5 @@
+# AlamoFire
+github "Alamofire/Alamofire" ~> 3.4
+
+# AlamoFireImage
+github "Alamofire/AlamofireImage" ~> 2.0
